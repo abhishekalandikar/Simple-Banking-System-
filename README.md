@@ -1,1 +1,2 @@
 # Simple-Banking-System-
+Simple Banking System is an object-oriented Python project that embodies principles of object-oriented programming (OOP) to simulate basic banking operations. It utilizes classes and objects to encapsulate account data and operations, promoting modularity and code reuse. The project features a hierarchy of classes, including an abstract base class for accounts and a derived class for savings accounts, demonstrating inheritance and polymorphism
